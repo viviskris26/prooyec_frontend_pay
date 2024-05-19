@@ -1,0 +1,25 @@
+
+.content-header {
+  background-color: #68b4e7; /* cambiar el color del fondo */
+  font-family: Arial, sans-serif; /* cambiar el tipo de letra */
+  color: #461172; /* cambiar el color de la letra */
+}
+
+.content-header h1 {
+  font-size: 25px; /* cambiar el tamaño de la letra */
+  font-weight: bold; /* cambiar el grosor de la letra */
+}
+
+.breadcrumb {
+  font-size: 14px; /* cambiar el tamaño de la letra */
+  font-weight: normal; /* cambiar el grosor de la letra */
+}
+
+.content-header a {
+  color: #3416a0; /* cambiar el color de los enlaces */
+  text-decoration: none; /* quitar subrayado */
+}
+
+.content-header a:hover {
+  color: #4417ad; /* cambiar el color de los enlaces al pasar el mouse */
+}
